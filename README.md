@@ -7,4 +7,4 @@
 - f
 - ;
 
-[ссылке(yandex.ru)]
+[ссылке](https://github.com/olesar/lingdata)
